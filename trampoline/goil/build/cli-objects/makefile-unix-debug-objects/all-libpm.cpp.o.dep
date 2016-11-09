@@ -1,0 +1,770 @@
+../build/cli-objects/makefile-unix-debug-objects/all-libpm.cpp.o: \
+ ../build/libpm/all-libpm.cpp /usr/include/stdc-predef.h \
+ ../build/libpm/command_line_interface/C_CommandLineOption.cpp \
+ /usr/include/string.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h \
+ /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ ../build/libpm/command_line_interface/C_CommandLineOption.h \
+ ../build/libpm/utilities/M_SourceLocation.h \
+ ../build/libpm/utilities/M_machine.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../build/libpm/command_line_interface/C_BoolCommandLineOption.cpp \
+ ../build/libpm/command_line_interface/C_BoolCommandLineOption.h \
+ ../build/libpm/strings/C_String.h \
+ ../build/libpm/collections/TC_UniqueArray.h \
+ ../build/libpm/utilities/MF_Assert.h ../build/libpm/utilities/TF_Swap.h \
+ ../build/libpm/utilities/MF_MemoryControl.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ ../build/libpm/utilities/cpp-allocation.h \
+ ../build/libpm/streams/C_ConsoleOut.h \
+ ../build/libpm/streams/C_ColoredConsole.h \
+ ../build/libpm/streams/AC_OutputStream.h \
+ ../build/libpm/strings/string_encodings.h \
+ ../build/libpm/utilities/C_Data.h ../build/libpm/collections/TC_Array.h \
+ ../build/libpm/utilities/C_SharedObject.h \
+ ../build/libpm/time/C_DateTime.h \
+ /usr/include/x86_64-linux-gnu/bits/timex.h /usr/include/c++/5/exception \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/cpu_defines.h \
+ /usr/include/c++/5/bits/atomic_lockfree_defines.h /usr/include/dirent.h \
+ /usr/include/x86_64-linux-gnu/bits/dirent.h \
+ /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h /usr/include/x86_64-linux-gnu/sys/stat.h \
+ /usr/include/x86_64-linux-gnu/bits/stat.h \
+ ../build/libpm/command_line_interface/C_UIntCommandLineOption.cpp \
+ ../build/libpm/command_line_interface/C_UIntCommandLineOption.h \
+ ../build/libpm/command_line_interface/C_StringCommandLineOption.cpp \
+ ../build/libpm/command_line_interface/C_StringCommandLineOption.h \
+ ../build/libpm/utilities/C_PrologueEpilogue.h \
+ ../build/libpm/command_line_interface/C_StringListCommandLineOption.cpp \
+ ../build/libpm/command_line_interface/C_StringListCommandLineOption.h \
+ ../build/libpm/command_line_interface/C_builtin_CLI_Options.cpp \
+ ../build/libpm/command_line_interface/C_builtin_CLI_Options.h \
+ ../build/libpm/command_line_interface/F_Analyze_CLI_Options.cpp \
+ ../build/libpm/command_line_interface/F_Analyze_CLI_Options.h \
+ ../build/libpm/files/C_FileManager.h /usr/include/ctype.h \
+ ../build/libpm/command_line_interface/F_mainForLIBPM.cpp \
+ ../build/libpm/bdd/C_BDD.h ../build/libpm/utilities/PMUInt128.h \
+ ../build/libpm/utilities/C_BigInt.h ../build/libpm/gmp/gmp.h \
+ /usr/include/c++/5/iosfwd /usr/include/c++/5/bits/stringfwd.h \
+ /usr/include/c++/5/bits/memoryfwd.h /usr/include/c++/5/bits/postypes.h \
+ /usr/include/c++/5/cwchar /usr/include/c++/5/cstdio \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ ../build/libpm/command_line_interface/F_mainForLIBPM.h \
+ ../build/libpm/utilities/F_DisplayException.h \
+ ../build/libpm/utilities/basic-allocation.h ../build/libpm/bdd/C_BDD.cpp \
+ ../build/libpm/bdd/C_BDD-node.h ../build/libpm/bdd/C_BDD-find-or-add.cpp \
+ ../build/libpm/utilities/F_GetPrime.h ../build/libpm/time/C_Timer.h \
+ /usr/include/x86_64-linux-gnu/sys/time.h \
+ ../build/libpm/bdd/C_BDD-single-operand-ops.cpp \
+ ../build/libpm/bdd/C_BDD-and-operation.cpp \
+ ../build/libpm/bdd/C_RelationSingleType.cpp \
+ ../build/libpm/bdd/C_RelationSingleType.h \
+ ../build/libpm/bdd/C_RelationConfiguration.cpp \
+ ../build/libpm/bdd/C_Relation.h \
+ ../build/libpm/bdd/C_RelationConfiguration.h \
+ ../build/libpm/bdd/C_Relation.cpp ../build/libpm/files/C_FileManager.cpp \
+ ../build/libpm/files/C_TextFileWrite.h \
+ ../build/libpm/files/AC_FileHandleForWriting.h \
+ ../build/libpm/files/AC_FileHandle.h \
+ ../build/libpm/files/C_BinaryFileWrite.h \
+ ../build/libpm/strings/unicode_character_base.h /usr/include/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /usr/include/x86_64-linux-gnu/bits/environments.h \
+ /usr/include/x86_64-linux-gnu/bits/confname.h /usr/include/getopt.h \
+ /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ ../build/libpm/files/AC_FileHandleForWriting.cpp /usr/include/signal.h \
+ /usr/include/x86_64-linux-gnu/bits/signum.h \
+ /usr/include/x86_64-linux-gnu/bits/siginfo.h \
+ /usr/include/x86_64-linux-gnu/bits/sigaction.h \
+ /usr/include/x86_64-linux-gnu/bits/sigcontext.h \
+ /usr/include/x86_64-linux-gnu/bits/sigstack.h \
+ /usr/include/x86_64-linux-gnu/sys/ucontext.h \
+ /usr/include/x86_64-linux-gnu/bits/sigthread.h \
+ ../build/libpm/files/AC_FileHandle.cpp \
+ ../build/libpm/files/C_TextFileWrite.cpp \
+ ../build/libpm/strings/unicode_character_cpp.h \
+ ../build/libpm/files/C_HTML_FileWrite.cpp \
+ ../build/libpm/files/C_HTML_FileWrite.h \
+ ../build/libpm/files/C_BinaryFileWrite.cpp \
+ ../build/libpm/streams/AC_OutputStream.cpp \
+ ../build/libpm/strings/unicode_string_routines.h \
+ ../build/libpm/streams/C_ColoredConsole.cpp \
+ ../build/libpm/streams/C_ConsoleOut.cpp \
+ ../build/libpm/streams/C_ErrorOut.cpp \
+ ../build/libpm/streams/C_ErrorOut.h \
+ ../build/libpm/streams/C_TCPSocketOut.cpp \
+ ../build/libpm/streams/C_TCPSocketOut.h /usr/include/netinet/in.h \
+ /usr/include/x86_64-linux-gnu/sys/socket.h \
+ /usr/include/x86_64-linux-gnu/sys/uio.h \
+ /usr/include/x86_64-linux-gnu/bits/uio.h \
+ /usr/include/x86_64-linux-gnu/bits/socket.h \
+ /usr/include/x86_64-linux-gnu/bits/socket_type.h \
+ /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
+ /usr/include/x86_64-linux-gnu/asm/socket.h \
+ /usr/include/asm-generic/socket.h \
+ /usr/include/x86_64-linux-gnu/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h \
+ /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/arpa/inet.h \
+ /usr/include/netdb.h /usr/include/rpc/netdb.h \
+ /usr/include/x86_64-linux-gnu/bits/netdb.h \
+ ../build/libpm/strings/unicode_character_cpp.cpp \
+ ../build/libpm/strings/cUnicodeData.h \
+ ../build/libpm/strings/unicode_character_implementation.h \
+ ../build/libpm/strings/unicode_string_routines.cpp \
+ ../build/libpm/strings/C_String.cpp ../build/libpm/utilities/md5.h \
+ ../build/libpm/collections/TC_UniqueArray2.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ ../build/libpm/strings/C_HTMLString.cpp \
+ ../build/libpm/strings/C_HTMLString.h ../build/libpm/time/C_Timer.cpp \
+ ../build/libpm/time/C_DateTime.cpp \
+ ../build/libpm/utilities/C_PrologueEpilogue.cpp \
+ ../build/libpm/utilities/C_SharedObject.cpp \
+ ../build/libpm/utilities/C_BigInt.cpp /usr/include/c++/5/iostream \
+ /usr/include/c++/5/ostream /usr/include/c++/5/ios \
+ /usr/include/c++/5/bits/char_traits.h \
+ /usr/include/c++/5/bits/stl_algobase.h \
+ /usr/include/c++/5/bits/functexcept.h \
+ /usr/include/c++/5/bits/exception_defines.h \
+ /usr/include/c++/5/bits/cpp_type_traits.h \
+ /usr/include/c++/5/ext/type_traits.h \
+ /usr/include/c++/5/ext/numeric_traits.h \
+ /usr/include/c++/5/bits/stl_pair.h /usr/include/c++/5/bits/move.h \
+ /usr/include/c++/5/bits/concept_check.h \
+ /usr/include/c++/5/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5/debug/debug.h /usr/include/c++/5/bits/stl_iterator.h \
+ /usr/include/c++/5/bits/ptr_traits.h \
+ /usr/include/c++/5/bits/predefined_ops.h \
+ /usr/include/c++/5/bits/localefwd.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++locale.h \
+ /usr/include/c++/5/clocale /usr/include/locale.h \
+ /usr/include/x86_64-linux-gnu/bits/locale.h /usr/include/c++/5/cctype \
+ /usr/include/c++/5/bits/ios_base.h /usr/include/c++/5/ext/atomicity.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/gthr.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/atomic_word.h \
+ /usr/include/c++/5/bits/locale_classes.h /usr/include/c++/5/string \
+ /usr/include/c++/5/bits/allocator.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++allocator.h \
+ /usr/include/c++/5/ext/new_allocator.h /usr/include/c++/5/new \
+ /usr/include/c++/5/bits/ostream_insert.h \
+ /usr/include/c++/5/bits/cxxabi_forced.h \
+ /usr/include/c++/5/bits/stl_function.h \
+ /usr/include/c++/5/backward/binders.h \
+ /usr/include/c++/5/bits/range_access.h \
+ /usr/include/c++/5/bits/basic_string.h \
+ /usr/include/c++/5/ext/alloc_traits.h \
+ /usr/include/c++/5/bits/basic_string.tcc \
+ /usr/include/c++/5/bits/locale_classes.tcc /usr/include/c++/5/stdexcept \
+ /usr/include/c++/5/streambuf /usr/include/c++/5/bits/streambuf.tcc \
+ /usr/include/c++/5/bits/basic_ios.h \
+ /usr/include/c++/5/bits/locale_facets.h /usr/include/c++/5/cwctype \
+ /usr/include/wctype.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/ctype_base.h \
+ /usr/include/c++/5/bits/streambuf_iterator.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/ctype_inline.h \
+ /usr/include/c++/5/bits/locale_facets.tcc \
+ /usr/include/c++/5/bits/basic_ios.tcc \
+ /usr/include/c++/5/bits/ostream.tcc /usr/include/c++/5/istream \
+ /usr/include/c++/5/bits/istream.tcc ../build/libpm/utilities/C_Data.cpp \
+ ../build/libpm/utilities/F_DisplayException.cpp \
+ ../build/libpm/utilities/MF_Assert.cpp \
+ ../build/libpm/utilities/F_GetPrime.cpp \
+ ../build/libpm/utilities/MF_MemoryControl.cpp \
+ ../build/libpm/utilities/cpp-allocation.cpp \
+ ../build/libpm/utilities/basic-allocation.cpp \
+ ../build/libpm/utilities/PMUInt128.cpp \
+ ../build/libpm/utilities/C_UIntSet.cpp \
+ ../build/libpm/utilities/C_UIntSet.h \
+ ../build/libpm/utilities/C_DirectedGraph.cpp \
+ ../build/libpm/utilities/C_DirectedGraph.h \
+ ../build/libpm/utilities/md5.cpp
+
+/usr/include/stdc-predef.h:
+
+../build/libpm/command_line_interface/C_CommandLineOption.cpp:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+../build/libpm/command_line_interface/C_CommandLineOption.h:
+
+../build/libpm/utilities/M_SourceLocation.h:
+
+../build/libpm/utilities/M_machine.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+../build/libpm/command_line_interface/C_BoolCommandLineOption.cpp:
+
+../build/libpm/command_line_interface/C_BoolCommandLineOption.h:
+
+../build/libpm/strings/C_String.h:
+
+../build/libpm/collections/TC_UniqueArray.h:
+
+../build/libpm/utilities/MF_Assert.h:
+
+../build/libpm/utilities/TF_Swap.h:
+
+../build/libpm/utilities/MF_MemoryControl.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+../build/libpm/utilities/cpp-allocation.h:
+
+../build/libpm/streams/C_ConsoleOut.h:
+
+../build/libpm/streams/C_ColoredConsole.h:
+
+../build/libpm/streams/AC_OutputStream.h:
+
+../build/libpm/strings/string_encodings.h:
+
+../build/libpm/utilities/C_Data.h:
+
+../build/libpm/collections/TC_Array.h:
+
+../build/libpm/utilities/C_SharedObject.h:
+
+../build/libpm/time/C_DateTime.h:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/c++/5/exception:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/cpu_defines.h:
+
+/usr/include/c++/5/bits/atomic_lockfree_defines.h:
+
+/usr/include/dirent.h:
+
+/usr/include/x86_64-linux-gnu/bits/dirent.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/x86_64-linux-gnu/sys/stat.h:
+
+/usr/include/x86_64-linux-gnu/bits/stat.h:
+
+../build/libpm/command_line_interface/C_UIntCommandLineOption.cpp:
+
+../build/libpm/command_line_interface/C_UIntCommandLineOption.h:
+
+../build/libpm/command_line_interface/C_StringCommandLineOption.cpp:
+
+../build/libpm/command_line_interface/C_StringCommandLineOption.h:
+
+../build/libpm/utilities/C_PrologueEpilogue.h:
+
+../build/libpm/command_line_interface/C_StringListCommandLineOption.cpp:
+
+../build/libpm/command_line_interface/C_StringListCommandLineOption.h:
+
+../build/libpm/command_line_interface/C_builtin_CLI_Options.cpp:
+
+../build/libpm/command_line_interface/C_builtin_CLI_Options.h:
+
+../build/libpm/command_line_interface/F_Analyze_CLI_Options.cpp:
+
+../build/libpm/command_line_interface/F_Analyze_CLI_Options.h:
+
+../build/libpm/files/C_FileManager.h:
+
+/usr/include/ctype.h:
+
+../build/libpm/command_line_interface/F_mainForLIBPM.cpp:
+
+../build/libpm/bdd/C_BDD.h:
+
+../build/libpm/utilities/PMUInt128.h:
+
+../build/libpm/utilities/C_BigInt.h:
+
+../build/libpm/gmp/gmp.h:
+
+/usr/include/c++/5/iosfwd:
+
+/usr/include/c++/5/bits/stringfwd.h:
+
+/usr/include/c++/5/bits/memoryfwd.h:
+
+/usr/include/c++/5/bits/postypes.h:
+
+/usr/include/c++/5/cwchar:
+
+/usr/include/c++/5/cstdio:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
+
+../build/libpm/command_line_interface/F_mainForLIBPM.h:
+
+../build/libpm/utilities/F_DisplayException.h:
+
+../build/libpm/utilities/basic-allocation.h:
+
+../build/libpm/bdd/C_BDD.cpp:
+
+../build/libpm/bdd/C_BDD-node.h:
+
+../build/libpm/bdd/C_BDD-find-or-add.cpp:
+
+../build/libpm/utilities/F_GetPrime.h:
+
+../build/libpm/time/C_Timer.h:
+
+/usr/include/x86_64-linux-gnu/sys/time.h:
+
+../build/libpm/bdd/C_BDD-single-operand-ops.cpp:
+
+../build/libpm/bdd/C_BDD-and-operation.cpp:
+
+../build/libpm/bdd/C_RelationSingleType.cpp:
+
+../build/libpm/bdd/C_RelationSingleType.h:
+
+../build/libpm/bdd/C_RelationConfiguration.cpp:
+
+../build/libpm/bdd/C_Relation.h:
+
+../build/libpm/bdd/C_RelationConfiguration.h:
+
+../build/libpm/bdd/C_Relation.cpp:
+
+../build/libpm/files/C_FileManager.cpp:
+
+../build/libpm/files/C_TextFileWrite.h:
+
+../build/libpm/files/AC_FileHandleForWriting.h:
+
+../build/libpm/files/AC_FileHandle.h:
+
+../build/libpm/files/C_BinaryFileWrite.h:
+
+../build/libpm/strings/unicode_character_base.h:
+
+/usr/include/unistd.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+
+/usr/include/x86_64-linux-gnu/bits/environments.h:
+
+/usr/include/x86_64-linux-gnu/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/errno.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+../build/libpm/files/AC_FileHandleForWriting.cpp:
+
+/usr/include/signal.h:
+
+/usr/include/x86_64-linux-gnu/bits/signum.h:
+
+/usr/include/x86_64-linux-gnu/bits/siginfo.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigaction.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigcontext.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigstack.h:
+
+/usr/include/x86_64-linux-gnu/sys/ucontext.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigthread.h:
+
+../build/libpm/files/AC_FileHandle.cpp:
+
+../build/libpm/files/C_TextFileWrite.cpp:
+
+../build/libpm/strings/unicode_character_cpp.h:
+
+../build/libpm/files/C_HTML_FileWrite.cpp:
+
+../build/libpm/files/C_HTML_FileWrite.h:
+
+../build/libpm/files/C_BinaryFileWrite.cpp:
+
+../build/libpm/streams/AC_OutputStream.cpp:
+
+../build/libpm/strings/unicode_string_routines.h:
+
+../build/libpm/streams/C_ColoredConsole.cpp:
+
+../build/libpm/streams/C_ConsoleOut.cpp:
+
+../build/libpm/streams/C_ErrorOut.cpp:
+
+../build/libpm/streams/C_ErrorOut.h:
+
+../build/libpm/streams/C_TCPSocketOut.cpp:
+
+../build/libpm/streams/C_TCPSocketOut.h:
+
+/usr/include/netinet/in.h:
+
+/usr/include/x86_64-linux-gnu/sys/socket.h:
+
+/usr/include/x86_64-linux-gnu/sys/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:
+
+/usr/include/x86_64-linux-gnu/bits/sockaddr.h:
+
+/usr/include/x86_64-linux-gnu/asm/socket.h:
+
+/usr/include/asm-generic/socket.h:
+
+/usr/include/x86_64-linux-gnu/asm/sockios.h:
+
+/usr/include/asm-generic/sockios.h:
+
+/usr/include/x86_64-linux-gnu/bits/in.h:
+
+/usr/include/arpa/inet.h:
+
+/usr/include/netdb.h:
+
+/usr/include/rpc/netdb.h:
+
+/usr/include/x86_64-linux-gnu/bits/netdb.h:
+
+../build/libpm/strings/unicode_character_cpp.cpp:
+
+../build/libpm/strings/cUnicodeData.h:
+
+../build/libpm/strings/unicode_character_implementation.h:
+
+../build/libpm/strings/unicode_string_routines.cpp:
+
+../build/libpm/strings/C_String.cpp:
+
+../build/libpm/utilities/md5.h:
+
+../build/libpm/collections/TC_UniqueArray2.h:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_val.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_valf.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_vall.h:
+
+/usr/include/x86_64-linux-gnu/bits/inf.h:
+
+/usr/include/x86_64-linux-gnu/bits/nan.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathdef.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+../build/libpm/strings/C_HTMLString.cpp:
+
+../build/libpm/strings/C_HTMLString.h:
+
+../build/libpm/time/C_Timer.cpp:
+
+../build/libpm/time/C_DateTime.cpp:
+
+../build/libpm/utilities/C_PrologueEpilogue.cpp:
+
+../build/libpm/utilities/C_SharedObject.cpp:
+
+../build/libpm/utilities/C_BigInt.cpp:
+
+/usr/include/c++/5/iostream:
+
+/usr/include/c++/5/ostream:
+
+/usr/include/c++/5/ios:
+
+/usr/include/c++/5/bits/char_traits.h:
+
+/usr/include/c++/5/bits/stl_algobase.h:
+
+/usr/include/c++/5/bits/functexcept.h:
+
+/usr/include/c++/5/bits/exception_defines.h:
+
+/usr/include/c++/5/bits/cpp_type_traits.h:
+
+/usr/include/c++/5/ext/type_traits.h:
+
+/usr/include/c++/5/ext/numeric_traits.h:
+
+/usr/include/c++/5/bits/stl_pair.h:
+
+/usr/include/c++/5/bits/move.h:
+
+/usr/include/c++/5/bits/concept_check.h:
+
+/usr/include/c++/5/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/5/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/5/debug/debug.h:
+
+/usr/include/c++/5/bits/stl_iterator.h:
+
+/usr/include/c++/5/bits/ptr_traits.h:
+
+/usr/include/c++/5/bits/predefined_ops.h:
+
+/usr/include/c++/5/bits/localefwd.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++locale.h:
+
+/usr/include/c++/5/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/usr/include/c++/5/cctype:
+
+/usr/include/c++/5/bits/ios_base.h:
+
+/usr/include/c++/5/ext/atomicity.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/gthr.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/atomic_word.h:
+
+/usr/include/c++/5/bits/locale_classes.h:
+
+/usr/include/c++/5/string:
+
+/usr/include/c++/5/bits/allocator.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++allocator.h:
+
+/usr/include/c++/5/ext/new_allocator.h:
+
+/usr/include/c++/5/new:
+
+/usr/include/c++/5/bits/ostream_insert.h:
+
+/usr/include/c++/5/bits/cxxabi_forced.h:
+
+/usr/include/c++/5/bits/stl_function.h:
+
+/usr/include/c++/5/backward/binders.h:
+
+/usr/include/c++/5/bits/range_access.h:
+
+/usr/include/c++/5/bits/basic_string.h:
+
+/usr/include/c++/5/ext/alloc_traits.h:
+
+/usr/include/c++/5/bits/basic_string.tcc:
+
+/usr/include/c++/5/bits/locale_classes.tcc:
+
+/usr/include/c++/5/stdexcept:
+
+/usr/include/c++/5/streambuf:
+
+/usr/include/c++/5/bits/streambuf.tcc:
+
+/usr/include/c++/5/bits/basic_ios.h:
+
+/usr/include/c++/5/bits/locale_facets.h:
+
+/usr/include/c++/5/cwctype:
+
+/usr/include/wctype.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/ctype_base.h:
+
+/usr/include/c++/5/bits/streambuf_iterator.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/ctype_inline.h:
+
+/usr/include/c++/5/bits/locale_facets.tcc:
+
+/usr/include/c++/5/bits/basic_ios.tcc:
+
+/usr/include/c++/5/bits/ostream.tcc:
+
+/usr/include/c++/5/istream:
+
+/usr/include/c++/5/bits/istream.tcc:
+
+../build/libpm/utilities/C_Data.cpp:
+
+../build/libpm/utilities/F_DisplayException.cpp:
+
+../build/libpm/utilities/MF_Assert.cpp:
+
+../build/libpm/utilities/F_GetPrime.cpp:
+
+../build/libpm/utilities/MF_MemoryControl.cpp:
+
+../build/libpm/utilities/cpp-allocation.cpp:
+
+../build/libpm/utilities/basic-allocation.cpp:
+
+../build/libpm/utilities/PMUInt128.cpp:
+
+../build/libpm/utilities/C_UIntSet.cpp:
+
+../build/libpm/utilities/C_UIntSet.h:
+
+../build/libpm/utilities/C_DirectedGraph.cpp:
+
+../build/libpm/utilities/C_DirectedGraph.h:
+
+../build/libpm/utilities/md5.cpp:

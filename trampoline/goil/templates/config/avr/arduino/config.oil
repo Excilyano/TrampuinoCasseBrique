@@ -1,0 +1,211 @@
+CPU avrArduino {
+
+  PLATFORM_FILES arduinoBase {
+    PATH = "avr/arduino";
+    CPPFILE = "main.cpp";
+    CPPFILE = "libraries/U8glib/src/U8glib.cpp";
+
+
+    CPPFILE = "libraries/U8glib/src/clib/chessengine.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_bitmap.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_circle.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_clip.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_api.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_api_16gr.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_attiny85_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_common.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_fast_parallel.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_hw_usart_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_no_en_parallel.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_parallel.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_port_d_wr.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_ssd_i2c.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_st7920_custom.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_st7920_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_st7920_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_std_sw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_sw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_t6963.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_arduino_uc_i2c.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atmega_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atmega_parallel.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atmega_st7920_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atmega_st7920_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atmega_sw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atxmega_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_atxmega_st7920_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_i2c.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_io.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_linux_ssd_i2c.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_msp430_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_null.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_psoc5_ssd_hw_parallel.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_raspberrypi_hw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_raspberrypi_ssd_i2c.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_com_std_sw_spi.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_cursor.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_delay.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_a2_micro_printer.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_flipdisc_2x7.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_gprof.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ht1632.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ili9325d_320x240.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ks0108_128x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_lc7981_160x80.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_lc7981_240x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_lc7981_240x128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_lc7981_320x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ld7032_60x32.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_null.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_pcd8544_84x48.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_pcf8812_96x65.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_sbn1661_122x32.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1306_64x48.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1306_128x32.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1306_128x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1309_128x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1322_nhd31oled_bw.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1322_nhd31oled_gr.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_bw.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_bw_new.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_gr.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_gr_new.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1327_96x96_gr.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1351_128x128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_ssd1353_160x128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_64128n.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_dogm128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_dogm132.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_lm6059.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_lm6063.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_nhd_c12832.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7565_nhd_c12864.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7687_c144mvgd.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7920_128x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7920_192x32.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_st7920_202x32.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_t6963_128x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_t6963_128x128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_t6963_240x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_t6963_240x128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_tls8204_84x48.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1601_c128032.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1608_240x64.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1608_240x128.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1610_dogxl160.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1611_dogm240.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1611_dogxl240.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1701_dogs102.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_dev_uc1701_mini12864.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_ellipse.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_font.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_font_data.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_line.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_ll_api.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_page.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb8h1.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb8h1f.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb8h2.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb8h8.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb8v1.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb8v2.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb14v1.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb16h1.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb16h2.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb16v1.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb16v2.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pb32h1.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pbxh16.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_pbxh24.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_polygon.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_rect.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_rot.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_scale.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_state.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_u8toa.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_u16toa.c";
+    CPPFILE = "libraries/U8glib/src/clib/u8g_virtual_screen.c";
+
+  };
+
+  BUILDOPTIONS buildOptionsForArduino {
+    PRELDFLAGS = "-lm"; //math lib requied
+    PREASFLAGS = "-x assembler-with-cpp";
+    COMMONFLAGS = "-fpermissive -w -Wno-unused-but-set-variable -Wno-write-strings -Wno-narrowing";
+  };
+  
+  PLATFORM_FILES arduinoBaseSerial {
+    PATH = "avr/arduino/hardware/cores/arduino";
+    CPPFILE = "HardwareSerial0.cpp";
+    CPPFILE = "HardwareSerial.cpp";
+    CPPFILE = "HID.cpp";
+    CPPFILE = "IPAddress.cpp";
+    CPPFILE = "new.cpp";
+    CPPFILE = "Print.cpp";
+    CPPFILE = "Stream.cpp";
+    CPPFILE = "Tone.cpp";
+    CPPFILE = "USBCore.cpp";
+    CPPFILE = "WMath.cpp";
+    CPPFILE = "WString.cpp";
+    CFILE = "wiring_digital.c";
+    CFILE = "wiring_analog.c";
+    CFILE = "wiring.c";
+    CPPFILE = "abi.cpp";
+    CFILE = "hooks.c";
+  };
+  
+};
+
+/*
+ * This configuration file adds a SOURCE attribute to ISR and COUNTER
+ * It also define a new object type: INTERRUPT
+ */
+IMPLEMENTATION avr_interrupt {
+  TASK [] {
+    UINT32 STACKSIZE = 128;
+  };
+  ISR [] {
+    UINT32 STACKSIZE = 128;
+    STRING SOURCE;
+  };
+  COUNTER [] {
+    STRING SOURCE;
+  };
+};
+
+//specific to arduino.
+IMPLEMENTATION Trampoline {
+  OS {
+        BOOLEAN [
+          TRUE {
+            //port to flash Arduino => marche pas!
+            STRING PORT = "/dev/ttyUSB0";
+            
+            //BOOLEAN SPI = FALSE;
+            //BOOLEAN I2C = FALSE;
+            //BOOLEAN SERVO = FALSE;
+            BOOLEAN SERIAL = FALSE;
+            //BOOLEAN NRF24 = FALSE;
+            //BOOLEAN TINYRTC = FALSE;
+            //BOOLEAN TIME = FALSE;
+            //BOOLEAN STANDARDWIRING = FALSE;
+            //BOOLEAN EVOLVEARDUINO = FALSE;
+            BOOLEAN LCDCRYSTAL = FALSE;
+            //BOOLEAN STEPPER = FALSE;
+          },
+          FALSE
+        ] ARDUINO = TRUE;
+      BOOLEAN SYSTEM_CALL = TRUE;
+  };
+};
+
+CPU arduino {
+  COUNTER SystemCounter {
+    TICKSPERBASE = 1;
+    MAXALLOWEDVALUE = 65535;
+    MINCYCLE = 1;
+    SOURCE = "TIMER0_OVF_vect";
+  };
+}; 
